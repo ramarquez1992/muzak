@@ -1,4 +1,4 @@
-![screenshot](https://github.com/richard92m/sigs/raw/master/hw.jpg)
+![screenshot](https://github.com/richard92m/muzak/raw/master/hw.jpg)
 
 
 # muzak
