@@ -19,17 +19,11 @@
 // SETUP
 int piezoPin = 9;
 
-// SEINFELD THEME
-int melody[] = {e, e, G, b, d, G, a, a, g, F, f, e, e, e, F, F, g, G, a, a, F, F, e, F, e, G, b, d, G, a, a, g, F, f, e, e, e, F, F, g, G, a, a, F, F, e, F};
-double beats[] = {8, 16, 8, 8, 4, 8, 8, 4, 8, 4, 8, 8, 16, 8, 8, 8, 4, 8, 8, 8, 16, 16, 16, 16, 16, 8, 8, 4, 8, 8, 4, 8, 4, 8, 8, 16, 8, 8, 8, 4, 8, 8, 8, 16, 16, 16, 16};
-double beatNoteType = 4;  // 4th note takes up 1 beat
-double bpm = 110; // Set overall tempo
-
 // SMOKE ON THE WATER
-//int melody[]    = {  e,  g,  a,  e,  R,  g,  R,  A,  a,  e,  g,  a,  g,  R,  e };
-//double beats[]  = {  4,  4,  2,  8,  8,  8,  8,  8,  2,  4,  4,  2,  8,  8,  1 }; 
-//double beatNoteType = 4;  // 4th note takes up 1 beat
-//double bpm = 112; // Set overall tempo
+int melody[]    = {  e,  g,  a,  e,  R,  g,  R,  A,  a,  e,  g,  a,  g,  R,  e };
+double beats[]  = {  4,  4,  2,  8,  8,  8,  8,  8,  2,  4,  4,  2,  8,  8,  1 }; 
+double beatNoteType = 4;  // 4th note takes up 1 beat
+double bpm = 112; // Set overall tempo
 
 
 int melodyLength = sizeof(melody)/sizeof(melody[0]);
