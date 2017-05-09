@@ -2,4 +2,4 @@
 
 
 # muzak
-Play a tune on a single piezoelectric buzzer connect to an Arudino. Notes, time signature, BPM hardcoded into `muzak.ino`. Hardware setup shown above also has controls for on/off, and volume.
+Play a tune on a single piezoelectric buzzer connect to an Arduino. Notes, time signature, BPM hardcoded into `muzak.ino`. Hardware setup shown above also has controls for on/off, and volume.
